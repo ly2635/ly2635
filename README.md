@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ly2635/ly2635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on basic programming of python to explore its versatility in data analysis and automation.
 - 🌱 I’m currently learning international finance and monetory policy, with a focus on understanding global economic impacts and strategies.
 - 👯 I’m looking to collaborate on projects that focused on finance and data analysis with the aim to uncover insights and drive informed decision-making.
